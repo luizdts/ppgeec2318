@@ -26,6 +26,6 @@ Capítulo 2 - Introduction to Machine Learning Systems Design: [Clique aqui](htt
 
 Capítulo 3 - Data Engineering Fundamentals: [Clique aqui](https://drive.google.com/file/d/1PANU5sR9uhLkhnRSnUTqMdHZQfXj4F7g/view?usp=drive_link)
 
-Capítulo 4 - Training Data: [Clique aqui]()
+Capítulo 4 - Training Data: [Clique aqui](https://drive.google.com/file/d/1-A1aI06Tfzv0gPST-YFaxz7xLNjbFYak/view?usp=drive_link)
 
-Capítulo 5 - Feature Engineering: [Clique aqui]()
+Capítulo 5 - Feature Engineering: [Clique aqui](https://drive.google.com/file/d/11XJb4YvVudTwfeG3sMWYaiD32OUpv8HV/view?usp=drive_link)
